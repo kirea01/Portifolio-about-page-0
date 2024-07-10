@@ -1,0 +1,49 @@
+body{
+    font-family: "poppins", sans-serif;
+};
+
+
+h1, h3, h4, h5 {
+font-family: "Playfair Display", serif;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 96px;
+}
+h2{
+    font-size: 64px;
+}
+p{
+    line-height: 30px;
+    font-size: 16px
+}
+.btn-branding{
+    background-color: #6c63ff;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+    border-radius: 4px;
+    padding: 0px 30px;
+}
+
+
+.my-photo{
+    border: 1px solid rgb(241, 238, 238);
+    border-radius: 16px;
+    display: block;
+    background-color: white;
+    max-width: 50%;
+}
+.about-section{
+    padding: 160px 20px;
+    text-align: center;
+    
+}
+.about-section h1{
+    font-size: 64px;
+    line-height: 1.2;
+}
+.about-section h2{
+    font-size: 36px;
+}
